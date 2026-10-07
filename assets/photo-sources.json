@@ -1,0 +1,11 @@
+{
+  "license": "Unsplash License",
+  "license_url": "https://unsplash.com/license",
+  "purpose": "Illustrative stock photography",
+  "photos": {
+    "pools": "https://unsplash.com/photos/swimming-pool-6wRr8iX9Gkg",
+    "restaurants": "https://unsplash.com/photos/restaurant-interior-with-tables-and-bar-area-h2_8LFfjUUc",
+    "hotels": "https://unsplash.com/photos/white-concrete-building-x08EWozs0c4",
+    "multifamily": "https://unsplash.com/photos/apartment-building-with-many-balconies-and-windows-YG1U8xo_UxQ"
+  }
+}
